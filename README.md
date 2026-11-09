@@ -1,6 +1,6 @@
 # webODV Oxygen Significance Analysis
 
-R analysis of dissolved oxygen observations from the Hawaii Ocean Time-series (HOT) program, using
+R analysis of dissolved oxygen observations (bottle) from the Hawaii Ocean Time-series (HOT) program, using
 two small subsets exported from [HOT-webODV](https://hot.webodv.awi.de/): **1999–2001** and
 **2019–2021**.
 
