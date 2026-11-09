@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this analysis software, please cite it and acknowledge the original HOT data provider as described in DATA_LICENSE.md."
+title: "webODV Oxygen Significance Analysis"
+authors:
+  - family-names: "Mieruch"
+    given-names: "Sebastian"
+type: software
+repository-code: "https://github.com/smieruch/webodv-oxy-significance"
+url: "https://github.com/smieruch/webodv-oxy-significance"
+license: MIT
