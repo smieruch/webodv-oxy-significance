@@ -1,5 +1,7 @@
 # webODV Oxygen Significance Analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24112289.svg)](https://doi.org/10.5281/zenodo.24112289)
+
 R analysis of dissolved oxygen observations (bottle) from the Hawaii Ocean Time-series (HOT) program, using
 two small subsets exported from [HOT-webODV](https://hot.webodv.awi.de/): **1999–2000** and
 **2019–2020**.
