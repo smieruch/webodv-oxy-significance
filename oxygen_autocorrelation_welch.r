@@ -3,8 +3,8 @@
 # 1. Load data
 # --------------------------------------------------
 
-data1 <- read.table("oxygen_bottle_hot_1999_2001.txt", header = FALSE)
-data2 <- read.table("oxygen_bottle_hot_2019_2021.txt", header = FALSE)
+data1 <- read.table("oxygen_bottle_hot_1999_2000.txt", header = FALSE)
+data2 <- read.table("oxygen_bottle_hot_2019_2020.txt", header = FALSE)
 
 colnames(data1) <- c("time", "oxygen")
 colnames(data2) <- c("time", "oxygen")

@@ -1,6 +1,6 @@
 {
   "title": "webODV Oxygen Significance Analysis",
-  "description": "R software for a Welch t-test sensitivity analysis accounting approximately for temporal autocorrelation. Includes two small dissolved oxygen data subsets (1999–2001 and 2019–2021) originating from the Hawaii Ocean Time-series (HOT) program and exported via HOT-webODV. The MIT license applies to the original R code only; observational data remain subject to the original HOT provider's terms and attribution requests. See DATA_LICENSE.md for provenance and reuse notes.",
+  "description": "R software for a Welch t-test sensitivity analysis accounting approximately for temporal autocorrelation. Includes two small dissolved oxygen data subsets (1999–2000 and 2019–2020) originating from the Hawaii Ocean Time-series (HOT) program and exported via HOT-webODV. The MIT license applies to the original R code only; observational data remain subject to the original HOT provider's terms and attribution requests. See DATA_LICENSE.md for provenance and reuse notes.",
   "creators": [
     { "name": "Mieruch, Sebastian" }
   ],

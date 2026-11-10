@@ -5,8 +5,8 @@ Ocean Time-series (HOT)** program, exported through HOT-webODV:
 
 | File | Source | Observation period |
 | --- | --- | --- |
-| `oxygen_bottle_hot_1999_2001.txt` | HOT via HOT-webODV | 1999–2001 |
-| `oxygen_bottle_hot_2019_2021.txt` | HOT via HOT-webODV | 2019–2021 |
+| `oxygen_bottle_hot_1999_2000.txt` | HOT via HOT-webODV | 1999–2000 |
+| `oxygen_bottle_hot_2019_2020.txt` | HOT via HOT-webODV | 2019–2020 |
 
 These files are excerpts selected for reproducing the example statistical analysis; they are not the
 full HOT data collection. The original data are credited to the HOT program, not to the author of

@@ -1,8 +1,8 @@
 # webODV Oxygen Significance Analysis
 
 R analysis of dissolved oxygen observations (bottle) from the Hawaii Ocean Time-series (HOT) program, using
-two small subsets exported from [HOT-webODV](https://hot.webodv.awi.de/): **1999–2001** and
-**2019–2021**.
+two small subsets exported from [HOT-webODV](https://hot.webodv.awi.de/): **1999–2000** and
+**2019–2020**.
 
 The script estimates short-lag autocorrelation with the Edelson–Krolik discrete correlation function
 (DCF), calculates an approximate effective sample size using an AR(1) formula, and compares the two
@@ -10,8 +10,8 @@ period means using a Welch t-test.
 
 ## Data and usage
 
-- `oxygen_bottle_hot_1999_2001.txt`: HOT oxygen observations, 1999–2001.
-- `oxygen_bottle_hot_2019_2021.txt`: HOT oxygen observations, 2019–2021.
+- `oxygen_bottle_hot_1999_2000.txt`: HOT oxygen observations, 1999–2000.
+- `oxygen_bottle_hot_2019_2020.txt`: HOT oxygen observations, 2019–2020.
 
 Each text file contains two whitespace-separated columns: decimal year and oxygen measurement. They
 are **selected subsets**, not the full HOT dataset.
